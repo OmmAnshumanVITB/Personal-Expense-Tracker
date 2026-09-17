@@ -43,7 +43,7 @@ Personal-Expense-Tracker/
 ├── data/                            # Persistent data storage
 │   ├── summary_report.txt           # Exported financial statements
 │   └── transactions.csv             # Comma-separated transaction database
-├── screenshots/    # Terminal run capture images
+├── screenshots/                     # Terminal run capture images
 ├── src/                             # Source code root
 │   ├── exception/                   # Custom application exceptions
 │   │   ├── BudgetExceededException.java
